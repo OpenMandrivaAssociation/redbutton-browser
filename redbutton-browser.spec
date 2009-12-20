@@ -12,6 +12,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:  ffmpeg-devel
 BuildRequires:  libexpat-devel
 BuildRequires:  libxrender-devel
+BuildRequires:  libxft-devel
 
 %description
 This package provides a browser for MHEG5, which is used to make
