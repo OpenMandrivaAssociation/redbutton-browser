@@ -9,6 +9,7 @@ URL:            http://redbutton.sourceforge.net/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildRequires:	libffmpeg-devel
+BuildRequires:  libexpat1-devel
 
 %description
 This package provides a browser for MHEG5, which is used to make
