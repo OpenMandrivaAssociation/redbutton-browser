@@ -14,6 +14,7 @@ BuildRequires:  libexpat-devel
 BuildRequires:  libxrender-devel
 BuildRequires:  libxft-devel
 BuildRequires:  libpng-devel
+BuildRequires:  xsltproc
 
 %description
 This package provides a browser for MHEG5, which is used to make
