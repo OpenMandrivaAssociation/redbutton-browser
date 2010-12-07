@@ -1,6 +1,6 @@
 Name:           redbutton-browser
 Version:        20091202
-Release:        %mkrel 1
+Release:        %mkrel 2
 Group:          Development/Other 
 License:        GPLv2+
 Summary:        Redbutton browser for MHEG5 content
