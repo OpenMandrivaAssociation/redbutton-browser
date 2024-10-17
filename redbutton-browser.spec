@@ -6,7 +6,7 @@ License:        GPLv2+
 Summary:        Redbutton browser for MHEG5 content
 Source:         redbutton-browser-%{version}.tar.gz
 Patch0:	        redbutton-browser-20091202-lib64swscale.patch
-URL:            http://redbutton.sourceforge.net/
+URL:            https://redbutton.sourceforge.net/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildRequires:  ffmpeg-devel
