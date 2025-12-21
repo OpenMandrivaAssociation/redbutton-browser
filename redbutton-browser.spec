@@ -9,6 +9,7 @@ Patch0:	        redbutton-browser-20091202-lib64swscale.patch
 URL:            https://redbutton.sourceforge.net/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	make
 BuildRequires:  ffmpeg-devel
 BuildRequires:  libexpat-devel
 BuildRequires:  libxrender-devel
